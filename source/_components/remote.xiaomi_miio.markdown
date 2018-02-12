@@ -15,7 +15,7 @@ ha_iot_class: "Local Polling"
 
 The `xiaomi miio` remote platform allows you to send IR commands from your Xiaomi IR Remote (ChuangmiIr).
 
-Please follow the instructions on [Retrieving the Access Token](/components/vacuum.xiaomi_miio/#retrieving-the-access-token) to get the API token to use in the `configuration.yaml` file.
+Please follow the instructions on [Retrieving the Access Token](/components/vacuum.xiaomi_miio/#retrieving-the-access-token) to get the API token (remember correct ZNAME for Xiaomi IR Remote that is MiRemote) to use in the `configuration.yaml` file. 
 
 ## {% linkable_title Configuring the Platform %}
 
